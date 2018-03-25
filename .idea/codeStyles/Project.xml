@@ -1,0 +1,15 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
+    <HTMLCodeStyleSettings>
+      <option name="HTML_ENFORCE_QUOTES" value="true" />
+    </HTMLCodeStyleSettings>
+    <JSCodeStyleSettings>
+      <option name="FIELD_PREFIX" value="" />
+    </JSCodeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+      <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
