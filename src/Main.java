@@ -1,6 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("重新创建分支yss");
+        System.out.println("使用yss提交输出1+1功能");
+        System.out.println(1 + 1);
     }
 }
